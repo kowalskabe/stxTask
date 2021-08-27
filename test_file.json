@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "Minutes from the Federal Reserve’s July 27-28 meeting showed that “most” officials “judged that the standard set out in the committee’s guidance regarding asset purchases could be reached this year.”",
+        "web_url": "https://www.nytimes.com/2021/08/18/business/economy/fed-fomc-minutes-taper.html",
+        "snippet": "Minutes from the Federal Reserve’s July 27-28 meeting showed that “most” officials “judged that the standard set out in the committee’s guidance regarding asset purchases could be reached this year.”",
+        "lead_paragraph": "Federal Reserve officials are preparing to slow the central bank’s large purchases of government-backed bonds, the first step toward a more normal monetary policy setting as the economy heals from the pandemic — but when they met last month, they remained starkly divided over just when the pullback should happen.",
+        "print_section": "B",
+        "print_page": "3",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/08/18/business/18fedminutes/merlin_192886428_5a89803c-da26-4173-97e5-59c92b39bb16-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2021/08/18/business/18fedminutes/merlin_192886428_5a89803c-da26-4173-97e5-59c92b39bb16-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/08/18/business/18fedminutes/merlin_192886428_5a89803c-da26-4173-97e5-59c92b39bb16-popup.jpg",
+            "height": 433,
+            "width": 650,
+            "legacy": {},
+            "subType": "popup",
+            "crop_name": "popup"
+          }
+        ]
+      }
+    ]
+  }
+}
